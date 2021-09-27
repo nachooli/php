@@ -9,7 +9,7 @@
 <body>
     
    <?php
-    echo "Hola";
+    echo "Hola"; #echo imprime por pantalla
     ?>
 </body>
 </html>
