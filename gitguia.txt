@@ -1,0 +1,5 @@
+git add --all
+git commit -m "dia de ejercicios"
+git push origin master
+git pull
+git clone

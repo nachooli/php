@@ -4,7 +4,7 @@
     echo "<br>";
 
     $float=0.1;
-    var_dump($float);
+    print (var_dump($float)."<br>");//print y echo creo que hacen lo mismo
 
     $string="eyo";
     var_dump($string);
